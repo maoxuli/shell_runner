@@ -1,0 +1,5 @@
+string script 
+string args 
+---
+bool success 
+string message
